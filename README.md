@@ -39,7 +39,7 @@ My goal is to treat this as more than just completing a course. I want to unders
 I am adding course folders as I progress through the certificate.
 
 At the moment, this repo is set up for **Course 1: Introduction to Cybersecurity Careers**.
-
+```text
 
 ibm-cybersecurity-analyst-professional-certificate/
 │
