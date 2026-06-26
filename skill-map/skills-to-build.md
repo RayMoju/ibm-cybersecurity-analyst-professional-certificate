@@ -2,129 +2,184 @@
 
 This file tracks the skills I need to build as I work through the IBM Cybersecurity Analyst Professional Certificate.
 
-The goal is to move from academic understanding into practical, job-ready cybersecurity ability.
+My current foundation is strongest in Computer Science fundamentals, academic cybersecurity concepts, cryptography awareness, network theory, and introductory packet analysis. The goal now is to turn that foundation into more practical, job-ready cybersecurity ability.
 
 ## Core Cybersecurity Knowledge
 
 I need to strengthen my understanding of:
 
-- Cybersecurity fundamentals
-- Common cyber threats
-- Malware types
-- Social engineering
-- Vulnerabilities
-- Risk
-- Security controls
-- Authentication and authorisation
-- Security policies and best practices
+* Common cyber threats
+* Malware types
+* Social engineering
+* Vulnerabilities and exploits
+* Risk and impact
+* Security controls
+* Authentication and authorisation
+* Security policies and best practices
+* How attackers think and how defenders respond
 
 ## Networking
 
-Networking is a priority skill to build because it appears across many cybersecurity roles.
+Networking is one of my priority areas because it appears across many cybersecurity roles.
 
-I need to improve:
+I need to improve my practical understanding of:
 
-- TCP/IP fundamentals
-- Ports and protocols
-- DNS
-- HTTP/HTTPS
-- Firewalls
-- VPNs
-- Network traffic
-- Network attacks
-- Network security monitoring
+* TCP/IP fundamentals
+* Ports and protocols
+* DNS
+* HTTP and HTTPS
+* Firewalls
+* VPNs
+* IDS/IPS
+* Network segmentation
+* Network traffic analysis
+* Network attacks and defences
+* How to recognise suspicious network behaviour
 
 ## Operating Systems
 
-I need to build more practical confidence with:
+I need to build more practical confidence with operating systems, especially Linux and Windows.
 
-- Linux basics
-- Windows administration basics
-- File permissions
-- Users and groups
-- Processes
-- Logs
-- Command line usage
-- Operating system hardening
+Areas to develop include:
+
+* Linux command line basics
+* Windows administration basics
+* Users and groups
+* File permissions
+* Processes and services
+* System logs
+* Security settings
+* Operating system hardening
+* Common attacker activity on endpoints
 
 ## Security Tools
 
-I need hands-on practice with cybersecurity tools such as:
+I need hands-on practice with cybersecurity tools rather than only understanding the theory.
 
-- SIEM tools
-- Log analysis tools
-- Vulnerability scanners
-- Network scanning tools
-- Packet analysis tools
-- Endpoint security tools
-- Incident response tools
+Tools and tool categories to build confidence with include:
 
-## SOC and Threat Detection Skills
+* Wireshark
+* SIEM tools
+* Log analysis tools
+* Vulnerability scanners
+* Network scanning tools
+* Packet analysis tools
+* Endpoint security tools
+* Incident response tools
 
-For entry-level cybersecurity analyst roles, I need to build:
+## Log Analysis and Monitoring
 
-- Alert investigation
-- Log analysis
-- Threat detection
-- Recognising suspicious activity
-- Escalation and documentation
-- Basic incident triage
-- Understanding how SOC teams work
+I need to learn how to read logs and understand what they show.
+
+This includes:
+
+* Identifying normal vs suspicious activity
+* Reading authentication logs
+* Understanding network logs
+* Investigating alerts
+* Recognising failed login patterns
+* Noticing unusual access behaviour
+* Connecting events together during an investigation
+
+## SOC Analyst Skills
+
+For entry-level cybersecurity analyst roles, I need to develop SOC-related skills.
+
+Areas to build include:
+
+* Alert investigation
+* Basic incident triage
+* Threat detection
+* Escalation
+* Evidence gathering
+* Writing clear investigation notes
+* Understanding how SOC teams operate
+* Communicating findings simply and clearly
 
 ## Incident Response and Digital Forensics
 
-I need to learn how to:
+I need to learn how cybersecurity teams respond when something goes wrong.
 
-- Respond to security incidents
-- Follow incident response steps
-- Preserve evidence
-- Analyse what happened
-- Document findings
-- Recommend improvements after an incident
+Areas to develop include:
+
+* Incident response stages
+* Containment, eradication, and recovery
+* Evidence preservation
+* Timeline building
+* Analysing what happened
+* Writing incident reports
+* Recommending improvements after an incident
 
 ## Penetration Testing and Vulnerability Awareness
 
-I need to build beginner-level understanding of:
+I need beginner-level understanding of offensive security methods so I can better understand how systems are attacked.
 
-- Vulnerability scanning
-- Web application weaknesses
-- Basic penetration testing methodology
-- Ethical hacking boundaries
-- Reporting vulnerabilities clearly
-- Tools used in testing environments
+Areas to build include:
+
+* Vulnerability scanning
+* Web application weaknesses
+* Basic penetration testing methodology
+* Ethical hacking boundaries
+* Common vulnerabilities
+* Secure reporting of findings
+* How defenders use penetration testing results to improve security
+
+## Web, Database, and Application Security
+
+I need to improve my understanding of how applications and databases can be attacked and protected.
+
+Areas to develop include:
+
+* SQL basics
+* SQL injection
+* Authentication weaknesses
+* Input validation
+* Secure data handling
+* Database security fundamentals
+* Common web application vulnerabilities
+* How attackers exploit weak application logic
 
 ## Cloud and Infrastructure Security
 
-I need to develop awareness of:
+I need to build awareness of cloud security because many organisations now rely on cloud systems.
 
-- Cloud computing basics
-- Cloud security risks
-- Identity and access management
-- Secure configuration
-- Shared responsibility models
-- Basic AWS, Azure, or cloud security concepts
+Areas to learn include:
 
-## Databases and Application Security
+* Cloud computing basics
+* Cloud security risks
+* Identity and access management
+* Secure configuration
+* Shared responsibility models
+* Basic AWS, Azure, or cloud security concepts
+* How cloud misconfigurations can create security risks
 
-I need to improve:
+## Governance, Risk, and Compliance
 
-- Database security fundamentals
-- SQL basics
-- SQL injection awareness
-- Secure handling of data
-- Application vulnerabilities
-- How attackers exploit weak systems
+I need to understand the non-technical side of cybersecurity as well.
 
-## Compliance, Risk, and Governance
+Areas to build include:
 
-I need to learn the basics of:
+* Risk management
+* Security policies
+* Compliance standards
+* Security frameworks
+* Audits
+* Governance, Risk, and Compliance
+* How organisations prove they are managing security properly
 
-- Security frameworks
-- Compliance standards
-- Risk management
-- Audits
-- Policies
-- Governance, Risk, and Compliance
+## Threat Hunting and Threat Intelligence
+
+I need to develop my ability to think beyond individual alerts and understand attacker behaviour.
+
+Areas to build include:
+
+* Threat actors
+* Indicators of compromise
+* Attack patterns
+* MITRE ATT&CK awareness
+* Cyber kill chain awareness
+* Threat research
+* Connecting technical evidence to attacker behaviour
 
 ## Communication and Documentation
 
@@ -132,12 +187,13 @@ I need to practise writing like a cybersecurity professional.
 
 This includes:
 
-- Clear incident notes
-- Simple technical explanations
-- Security reports
-- Risk explanations
-- Recommendations
-- Interview-ready project explanations
+* Clear incident notes
+* Simple technical explanations
+* Security reports
+* Risk explanations
+* Recommendations
+* Lab write-ups
+* Interview-ready project explanations
 
 ## Security+ Readiness
 
@@ -145,23 +201,25 @@ As I progress, I want to build towards Security+ level knowledge.
 
 Areas to develop include:
 
-- Threats, attacks, and vulnerabilities
-- Architecture and design
-- Implementation
-- Operations and incident response
-- Governance, risk, and compliance
+* Threats, attacks, and vulnerabilities
+* Security architecture and design
+* Implementation
+* Security operations
+* Incident response
+* Governance, risk, and compliance
 
 ## Practical Experience
 
-I need to build more evidence through:
+I need to build more practical evidence through:
 
-- Labs
-- Case studies
-- Small projects
-- TryHackMe-style practice
-- Security tool walkthroughs
-- Reflections on what I learned
-- GitHub documentation
+* Labs
+* Case studies
+* Small projects
+* Security tool walkthroughs
+* TryHackMe-style practice
+* Packet analysis practice
+* Incident response scenarios
+* GitHub documentation
 
 ## Priority Focus for Now
 
@@ -170,10 +228,11 @@ My first priority areas are:
 1. Networking fundamentals
 2. Linux and command line confidence
 3. Cybersecurity terminology
-4. Security tools and logs
-5. SOC analyst basics
-6. Incident response fundamentals
-7. Clear technical documentation
+4. Wireshark and packet analysis confidence
+5. Security tools and logs
+6. SOC analyst basics
+7. Incident response fundamentals
+8. Clear technical documentation
 
 ## Overall Goal
 
