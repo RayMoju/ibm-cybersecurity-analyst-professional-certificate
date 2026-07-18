@@ -271,17 +271,33 @@ vulnerability management = find and fix weaknesses
   - hacking/testing = integration testing
   - implementation = understanding firewalls
   - engineering = application security
+ 
+  - 
+## Importance of Soft Skills
 
-## Importance of Soft Skills 
-documnetation
-professionalism
-attention to detail, ciritcla thinkng
-teanmwork/leadership
-researching proactively
-time amnagement + prioritising
+- Attention to Detail
+- Critical Thinking & Creativity
+- Teamwork & Communication
+- Leadership & Problem Solving
+- Meticulous Documentation
+- Professionalism & Integrity
+- Proactive Research & Continuous Learning
+- Time Management & Prioritisation
 
+## LinkedIn
 
-
+- Recruiters & 58M+ companies use LinkedIn.
+- Keep profile updated & stay active.
+- Share insights.
+- Comment on posts/articles.
+- Use cybersecurity keywords.
+- Professional photo.
+- Clear headline & summary.
+- Add projects, training & certifications.
+- Join cybersecurity groups.
+- Follow industry leaders.
+- Post regularly.
+- Include LinkedIn on CV.
 
 
 
